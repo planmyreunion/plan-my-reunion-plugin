@@ -1,0 +1,22 @@
+{
+  "name": "plan-my-reunion",
+  "displayName": "Plan My Reunion",
+  "version": "2.2.0",
+  "description": "Plan and run a high school class reunion: start it, build the class list, pick the date and venue, set up tickets, message the class, and check people in. Venue partners can answer booking requests.",
+  "author": {
+    "name": "PLAN MY REUNION LLC",
+    "email": "caleb@planmyreunionnow.com",
+    "url": "https://www.planmyreunionnow.com"
+  },
+  "homepage": "https://www.planmyreunionnow.com/assistant",
+  "license": "MIT",
+  "keywords": [
+    "reunion",
+    "class reunion",
+    "high school",
+    "events",
+    "tickets",
+    "rsvp"
+  ],
+  "privacyPolicyUrl": "https://www.planmyreunionnow.com/privacy"
+}

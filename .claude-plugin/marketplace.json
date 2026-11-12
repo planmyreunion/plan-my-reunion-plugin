@@ -1,0 +1,15 @@
+{
+  "name": "plan-my-reunion",
+  "description": "The Plan My Reunion plugin for Claude: plan and run a high school class reunion.",
+  "owner": {
+    "name": "PLAN MY REUNION LLC",
+    "url": "https://www.planmyreunionnow.com"
+  },
+  "plugins": [
+    {
+      "name": "plan-my-reunion",
+      "source": "./plan-my-reunion",
+      "description": "Plan and run a high school class reunion from Claude."
+    }
+  ]
+}

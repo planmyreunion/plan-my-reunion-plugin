@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "plan-my-reunion": {
+      "type": "http",
+      "url": "https://www.planmyreunionnow.com/mcp"
+    }
+  }
+}
